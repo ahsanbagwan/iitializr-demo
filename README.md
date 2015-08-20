@@ -2,7 +2,7 @@
 
 This was done because I wanted to host a Node.js project on a cloud infrastructure (Heroku in this case). This is basically a static page served by Node.js server. Last but not the least this demonstrates how easy it is to use a template like Initializr as well.
 
-Skeleton code to build upon provided by Initializr project. Theme borrowed from Bootstrap.
+Skeleton code to build upon provided by [Initializr project](http://www.initializr.com/). Theme borrowed from [Bootstrap](http://getbootstrap.com).
 
 Hosted on Heroku : https://secure-beyond-5933.herokuapp.com/
 
@@ -12,7 +12,7 @@ Hosted on Heroku : https://secure-beyond-5933.herokuapp.com/
 
 * Add a backend like MongoDB
 
-* Use grunt tool.
+* Use grunt tool
 
 * If possible use gulp and bower
 
