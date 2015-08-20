@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ahsanbagwan/iitializr-demo",
   "dependencies": {
        "connect": "3.4.0",
-       "serve-static": "1.10.0"
+       "serve-static": "1.10.0",
+       "express": "3.x"
   }
 }
